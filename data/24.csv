@@ -1,0 +1,80 @@
+Metabolite ID,Name
+13DPG,3-Phospho-D-glyceroyl phosphate
+23DHDP,"2,3-Dihydrodipicolinate"
+26DAPIME,"N-Acetyl-L,L-2,6-diaminopimelate"
+2DDA7P,2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate
+2ME4P,2-C-methyl-D-erythritol 4-phosphate
+2OBUT,2-Oxobutanoate
+2OXOADP,2-Oxoadipate
+2PG,D-Glycerate 2-phosphate
+3DHQ,3-Dehydroquinate
+3DHSK,3-Dehydroshikimate
+3PG,3-Phospho-D-glycerate
+3PSME,5-O-(1-Carboxyvinyl)-3-phosphoshikimate
+6PGC,6-Phospho-D-gluconate
+6PGL,"6-phospho-D-glucono-1,5-lactone"
+AC,Acetate
+ACAMOXP,N-Acetyl-L-2-amino-6-oxopimelate
+AcCoA,Acetyl-CoA
+ACG5P,N-Acetyl-L-glutamyl 5-phosphate
+ACG5SA,N-Acetyl-L-glutamate 5-semialdehyde
+ACGAM1P,N-Acetyl-D-glucosamine 1-phosphate
+ACGLU,N-Acetyl-L-glutamate
+ACORN,N2-Acetyl-L-ornithine
+ACTP,Acetyl phosphate
+AKG,2-Oxoglutarate
+ALAC,(S)-2-Acetolactate
+ASP,L-Aspartate
+ASPSA,L-Aspartate 4-semialdehyde
+B124TC,"But-1-ene-1,2,4-tricarboxylate"
+CHOR,Chorismate
+CoA,Coenzyme A
+DHAP,Dihydroxyacetone phosphate
+DXYL5P,1-deoxy-D-xylulose 5-phosphate
+E4P,D-Erythrose 4-phosphate
+F6P,D-Fructose 6-phosphate
+FBP,Fructose-bisphosphatase
+FDP,"D-Fructose 1,6-bisphosphate"
+FLXR,Flavodoxin reduced
+FLXSO,Flavodoxin semi oxidized
+FOR,Formate
+FUM,Fumarate
+G3P,Glyceraldehyde 3-phosphate
+G6P,D-Glucose 6-phosphate
+GAM1P,D-Glucosamine 1-phosphate
+GAM6P,D-Glucosamine 6-phosphate
+GLC,D-Glucose
+GLU,L-Glutamate
+H2MB4P,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate
+HMCIT,Homocitrate
+HMICIT,Homoisocitrate
+HOM,L-Homoserine
+ICIT,Isocitrate
+IPDP,Isopentenyl diphosphate
+L26DAP,"L,L-Diaminopimelate"
+L2AADP,L-2-aminoadipate
+LALLYS,L-allysine
+LYS,L-Lysine
+M26DAP,"meso-2,6-diaminoheptanedioate"
+MAL,Malate
+MTHGXL,Methylglyoxal
+OAA,Oxaloacetate
+ORN,Ornithine
+PEP,Phosphoenolpyruvate
+PHOM,O-Phospho-L-homoserine
+PPHN,Prephenate
+PPOH,Propan-1-ol
+PYR,Pyruvate
+R5P,Alpha-D-Ribose 5-phosphate
+Ru5P,D-Ribulose 5-phosphate
+S7P,Sedoheptulose 7-phosphate
+SACCRP,L-saccharopine
+SKM,Shikimate
+SKM5P,Shikimate 5-phosphate
+SL26DA,"N-Succinyl-LL-2,6-diaminoheptanedioate"
+SL2A6O,N-Succinyl-2-L-amino-6-oxoheptanedioate
+SUCC,Succinate
+SucCoA,Succinyl-CoA
+THDP,"2,3,4,5-Tetrahydrodipicolinate"
+THR,L-Threonine
+Xu5P,D-Xylulose 5-phosphate

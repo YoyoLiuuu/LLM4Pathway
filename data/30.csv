@@ -1,0 +1,545 @@
+Template model,Target model,Target chemical,Target ID,Yield type,Oxygen availability,Carbon source,molar yield (mol/mol),molar yield (mol/C mol),gram yield (g/g)
+iJO1366,iJO1366_actn__R,(R)-acetoin,actn__R,YT,aerobic,D-glucose,1.174603175,0.195767196,0.574438945
+iJO1366,iJO1366_actn__R,(R)-acetoin,actn__R,YA,aerobic,D-glucose,1.059364194,0.176560699,0.518081394
+iJO1366,iJO1366_met_18351,4-hydroxyhexan-3-one,met_18351,YT,aerobic,D-glucose,0.719827586,0.119971264,0.464119929
+iJO1366,iJO1366_met_18351,4-hydroxyhexan-3-one,met_18351,YA,aerobic,D-glucose,0.643236721,0.10720612,0.414736789
+iJO1366,iJO1366_fum,fumarate(2-),fum,YT,aerobic,D-glucose,1.901960784,0.316993464,1.204127069
+iJO1366,iJO1366_fum,fumarate(2-),fum,YA,aerobic,D-glucose,1.689965888,0.281660981,1.06991358
+iJO1366,iJO1366_fum_path_1,fumarate(2-),fum,YT,aerobic,D-glucose,1.901960784,0.316993464,1.204127069
+iJO1366,iJO1366_fum_path_1,fumarate(2-),fum,YA,aerobic,D-glucose,1.689965888,0.281660981,1.06991358
+iJO1366,iJO1366_2ppoh,propan-2-ol,2ppoh,YT,aerobic,D-glucose,1.297297297,0.216216216,0.432742506
+iJO1366,iJO1366_2ppoh,propan-2-ol,2ppoh,YA,aerobic,D-glucose,1.168790321,0.194798387,0.389876132
+iJO1366,iJO1366_met_87755,pentan-3-one,met_87755,YT,aerobic,D-glucose,0.857142857,0.142857143,0.409798924
+iJO1366,iJO1366_met_87755,pentan-3-one,met_87755,YA,aerobic,D-glucose,0.7835296389999999,0.130588273,0.374604536
+iJO1366,iJO1366_3mb,isovalerate,3mb,YT,aerobic,D-glucose,0.840909091,0.140151515,0.472012843
+iJO1366,iJO1366_3mb,isovalerate,3mb,YA,aerobic,D-glucose,0.758412604,0.126402101,0.425706528
+iJO1366,iJO1366_uacgam,UDP-N-acetyl-alpha-D-glucosamine(2-),uacgam,YT,aerobic,D-glucose,0.342948718,0.05715812,1.152334467
+iJO1366,iJO1366_uacgam,UDP-N-acetyl-alpha-D-glucosamine(2-),uacgam,YA,aerobic,D-glucose,0.304699485,0.050783248,1.02381406
+iJO1366,iJO1366_12ppd__S,"(S)-propane-1,2-diol",12ppd__S,YT,aerobic,D-glucose,1.423976608,0.237329435,0.601460658
+iJO1366,iJO1366_12ppd__S,"(S)-propane-1,2-diol",12ppd__S,YA,aerobic,D-glucose,1.265128229,0.210854705,0.534366121
+iJO1366,iJO1366_met_57484,trimethylenediaminium,met_57484,YT,aerobic,D-glucose,1.371794872,0.228632479,0.579773092
+iJO1366,iJO1366_met_57484,trimethylenediaminium,met_57484,YA,aerobic,D-glucose,1.22203767,0.203672945,0.516479958
+iJO1366,iJO1366_mev__R,(R)-mevalonate,mev__R,YT,aerobic,D-glucose,0.808988764,0.134831461,0.660772221
+iJO1366,iJO1366_mev__R,(R)-mevalonate,mev__R,YA,aerobic,D-glucose,0.72709084,0.121181807,0.593878989
+iJO1366,iJO1366_met_49243,"(E,R)-alpha-bisabolene",met_49243,YT,aerobic,D-glucose,0.277992278,0.046332046,0.315327019
+iJO1366,iJO1366_met_49243,"(E,R)-alpha-bisabolene",met_49243,YA,aerobic,D-glucose,0.247698356,0.041283059,0.280964583
+iJO1366,iJO1366_2dda7p,7-phospho-2-dehydro-3-deoxy-D-arabino-heptonate,2dda7p,YT,aerobic,D-glucose,0.855855856,0.142642643,1.354512467
+iJO1366,iJO1366_2dda7p,7-phospho-2-dehydro-3-deoxy-D-arabino-heptonate,2dda7p,YA,aerobic,D-glucose,0.760416517,0.126736086,1.203466268
+iJO1366,iJO1366_subeac,suberate(2-),subeac,YT,aerobic,D-glucose,0.631578947,0.105263158,0.603612289
+iJO1366,iJO1366_subeac,suberate(2-),subeac,YA,aerobic,D-glucose,0.58401393,0.097335655,0.558153477
+iJO1366,iJO1366_agm,agmatinium(2+),agm,YT,aerobic,D-glucose,0.891666667,0.148611111,0.654349323
+iJO1366,iJO1366_agm,agmatinium(2+),agm,YA,aerobic,D-glucose,0.794398237,0.132399706,0.582968914
+iJO1366,iJO1366_met_79112,7-hydroxyheptanoic acid,met_79112,YT,aerobic,D-glucose,0.580645161,0.096774194,0.47115411
+iJO1366,iJO1366_met_79112,7-hydroxyheptanoic acid,met_79112,YA,aerobic,D-glucose,0.516768086,0.086128014,0.419322202
+iJO1366,iJO1366_3php,3-phosphonatooxypyruvate(3-),3php,YT,aerobic,D-glucose,2.328571429,0.388095238,2.339708668
+iJO1366,iJO1366_3php,3-phosphonatooxypyruvate(3-),3php,YA,aerobic,D-glucose,2.109212247,0.351535375,2.119300322
+iJO1366,iJO1366_met_11009,(R)-3-phenyllactate,met_11009,YT,aerobic,D-glucose,0.55912744,0.093187907,0.512605086
+iJO1366,iJO1366_met_11009,(R)-3-phenyllactate,met_11009,YA,aerobic,D-glucose,0.496754748,0.082792458,0.455422131
+iJO1366,iJO1366_phe__L,L-phenylalanine zwitterion,phe__L,YT,aerobic,D-glucose,0.562130178,0.093688363,0.515430307
+iJO1366,iJO1366_phe__L,L-phenylalanine zwitterion,phe__L,YA,aerobic,D-glucose,0.49949207,0.083248678,0.457995962
+iJO1366,iJO1366_oxptn,5-oxopentanoate,oxptn,YT,aerobic,D-glucose,0.856,0.142666667,0.546925427
+iJO1366,iJO1366_oxptn,5-oxopentanoate,oxptn,YA,aerobic,D-glucose,0.762628367,0.127104728,0.487267343
+iJO1366,iJO1366_3hpp,3-hydroxypropionate,3hpp,YT,aerobic,D-glucose,1.830508475,0.305084746,0.905012869
+iJO1366,iJO1366_3hpp,3-hydroxypropionate,3hpp,YA,aerobic,D-glucose,1.631502314,0.271917052,0.806623193
+iJO1366,iJO1366_3hpp_path_1,3-hydroxypropionate,3hpp,YT,aerobic,D-glucose,1.877192982,0.312865497,0.928093931
+iJO1366,iJO1366_3hpp_path_1,3-hydroxypropionate,3hpp,YA,aerobic,D-glucose,1.672419312,0.278736552,0.826852768
+iJO1366,iJO1366_3hpp_path_2,3-hydroxypropionate,3hpp,YT,aerobic,D-glucose,1.754098361,0.292349727,0.867235313
+iJO1366,iJO1366_3hpp_path_2,3-hydroxypropionate,3hpp,YA,aerobic,D-glucose,1.56200992,0.260334987,0.772265793
+iJO1366,iJO1366_met_16997,"propane-1,2-diol",met_16997,YT,aerobic,D-glucose,1.423976608,0.237329435,0.601460658
+iJO1366,iJO1366_met_16997,"propane-1,2-diol",met_16997,YA,aerobic,D-glucose,1.265212567,0.210868761,0.534401744
+iJO1366,iJO1366_met_61677,(+)-alpha-santalene,met_61677,YT,aerobic,D-glucose,0.277992278,0.046332046,0.315327019
+iJO1366,iJO1366_met_61677,(+)-alpha-santalene,met_61677,YA,aerobic,D-glucose,0.247698356,0.041283059,0.280964583
+iJO1366,iJO1366_itacon,itaconate(2-),itacon,YT,aerobic,D-glucose,1.194274029,0.199045671,0.849075996
+iJO1366,iJO1366_itacon,itaconate(2-),itacon,YA,aerobic,D-glucose,1.076323746,0.179387291,0.765218563
+iJO1366,iJO1366_pacald,phenylacetaldehyde,pacald,YT,aerobic,D-glucose,0.584699454,0.097449909,0.389944386
+iJO1366,iJO1366_pacald,phenylacetaldehyde,pacald,YA,aerobic,D-glucose,0.520636716,0.086772786,0.347220035
+iJO1366,iJO1366_met_48946,2-methylbutyrate,met_48946,YT,aerobic,D-glucose,0.923076923,0.153846154,0.51813468
+iJO1366,iJO1366_met_48946,2-methylbutyrate,met_48946,YA,aerobic,D-glucose,0.843784101,0.140630683,0.473626622
+iJO1366,iJO1366_cit,citrate(3-),cit,YT,aerobic,D-glucose,1.184584178,0.197430696,1.243392737
+iJO1366,iJO1366_cit,citrate(3-),cit,YA,aerobic,D-glucose,1.067665526,0.177944254,1.12066967
+iJO1366,iJO1366_mal__L,(S)-malate(2-),mal__L,YT,aerobic,D-glucose,1.901960784,0.316993464,1.394319896
+iJO1366,iJO1366_mal__L,(S)-malate(2-),mal__L,YA,aerobic,D-glucose,1.689981993,0.281663666,1.238919086
+iJO1366,iJO1366_mal__L_path_1,(S)-malate(2-),mal__L,YT,aerobic,D-glucose,1.901960784,0.316993464,1.394319896
+iJO1366,iJO1366_mal__L_path_1,(S)-malate(2-),mal__L,YA,aerobic,D-glucose,1.689981993,0.281663666,1.238919086
+iJO1366,iJO1366_met_39150,4-oxopentanoate,met_39150,YT,aerobic,D-glucose,1.0703125,0.178385417,0.68385645
+iJO1366,iJO1366_met_39150,4-oxopentanoate,met_39150,YA,aerobic,D-glucose,0.962309399,0.1603849,0.614849859
+iJO1366,iJO1366_met_88764,ethyl butyrate,met_88764,YT,aerobic,D-glucose,0.75,0.125,0.483574058
+iJO1366,iJO1366_met_88764,ethyl butyrate,met_88764,YA,aerobic,D-glucose,0.689049906,0.114841651,0.444275546
+iJO1366,iJO1366_argsuc,(N(omega)-L-arginino)succinate(1-),argsuc,YT,aerobic,D-glucose,0.604519774,0.100753296,0.970640099
+iJO1366,iJO1366_argsuc,(N(omega)-L-arginino)succinate(1-),argsuc,YA,aerobic,D-glucose,0.538549879,0.089758313,0.86471631
+iJO1366,iJO1366_met_16619,"(2-trans,6-trans)-farnesol",met_16619,YT,aerobic,D-glucose,0.277992278,0.046332046,0.343125772
+iJO1366,iJO1366_met_16619,"(2-trans,6-trans)-farnesol",met_16619,YA,aerobic,D-glucose,0.247699484,0.041283247,0.305735386
+iJO1366,iJO1366_met_143075,L-homocarnosine zwitterion,met_143075,YT,aerobic,D-glucose,0.514423077,0.085737179,0.686043634
+iJO1366,iJO1366_met_143075,L-homocarnosine zwitterion,met_143075,YA,aerobic,D-glucose,0.458306675,0.076384446,0.611205817
+iJO1366,iJO1366_ichor,isochorismate(2-),ichor,YT,aerobic,D-glucose,0.578378378,0.096396396,0.719672873
+iJO1366,iJO1366_ichor,isochorismate(2-),ichor,YA,aerobic,D-glucose,0.514474846,0.085745808,0.640158076
+iJO1366,iJO1366_5aptn,5-aminopentanoic acid zwitterion,5aptn,YT,aerobic,D-glucose,0.798507463,0.133084577,0.519229385
+iJO1366,iJO1366_5aptn,5-aminopentanoic acid zwitterion,5aptn,YA,aerobic,D-glucose,0.711405588,0.118567598,0.462591401
+iJO1366,iJO1366_3mob,3-methyl-2-oxobutanoate,3mob,YT,aerobic,D-glucose,1.088235294,0.181372549,0.69530789
+iJO1366,iJO1366_3mob,3-methyl-2-oxobutanoate,3mob,YA,aerobic,D-glucose,0.981475309,0.163579218,0.627095564
+iJO1366,iJO1366_glu5p,L-gamma-glutamyl phosphate(2-),glu5p,YT,aerobic,D-glucose,1.156435644,0.192739274,1.444892575
+iJO1366,iJO1366_glu5p,L-gamma-glutamyl phosphate(2-),glu5p,YA,aerobic,D-glucose,1.042234908,0.173705818,1.30220604
+iJO1366,iJO1366_acorn,N(2)-acetyl-L-ornithine zwitterion,acorn,YT,aerobic,D-glucose,0.73655914,0.122759857,0.712199228
+iJO1366,iJO1366_acorn,N(2)-acetyl-L-ornithine zwitterion,acorn,YA,aerobic,D-glucose,0.662102965,0.110350494,0.640205511
+iJO1366,iJO1366_citr__L,L-citrulline zwitterion,citr__L,YT,aerobic,D-glucose,0.930434783,0.155072464,0.904765847
+iJO1366,iJO1366_citr__L,L-citrulline zwitterion,citr__L,YA,aerobic,D-glucose,0.828871906,0.138145318,0.806004898
+iJO1366,iJO1366_Ncbmpts,N-carbamoylputrescinium(1+),Ncbmpts,YT,aerobic,D-glucose,0.891666667,0.148611111,0.654234596
+iJO1366,iJO1366_Ncbmpts,N-carbamoylputrescinium(1+),Ncbmpts,YA,aerobic,D-glucose,0.794405008,0.132400835,0.58287167
+iJO1366,iJO1366_4abutn,4-ammoniobutanal,4abutn,YT,aerobic,D-glucose,1.062015504,0.177002584,0.519514661
+iJO1366,iJO1366_4abutn,4-ammoniobutanal,4abutn,YA,aerobic,D-glucose,0.954856937,0.159142823,0.467095043
+iJO1366,iJO1366_ghb,4-hydroxybutyrate,ghb,YT,aerobic,D-glucose,1.224318658,0.20405311,0.700632511
+iJO1366,iJO1366_ghb,4-hydroxybutyrate,ghb,YA,aerobic,D-glucose,1.103386275,0.183897712,0.631427358
+iJO1366,iJO1366_ghb_path_1,4-hydroxybutyrate,ghb,YT,aerobic,D-glucose,1.23015873,0.205026455,0.703974569
+iJO1366,iJO1366_ghb_path_1,4-hydroxybutyrate,ghb,YA,aerobic,D-glucose,1.108851959,0.18480866,0.634555168
+iJO1366,iJO1366_ghb_path_2,4-hydroxybutyrate,ghb,YT,aerobic,D-glucose,1.23015873,0.205026455,0.703974569
+iJO1366,iJO1366_ghb_path_2,4-hydroxybutyrate,ghb,YA,aerobic,D-glucose,1.108851959,0.18480866,0.634555168
+iJO1366,iJO1366_met_36656,phenylglyoxylate,met_36656,YT,aerobic,D-glucose,0.602959309,0.100493218,0.499097796
+iJO1366,iJO1366_met_36656,phenylglyoxylate,met_36656,YA,aerobic,D-glucose,0.538578872,0.089763145,0.445807078
+iJO1366,iJO1366_met_88063,"1,2,4-Butanetriol",met_88063,YT,aerobic,D-glucose,1.125,0.1875,0.66267862
+iJO1366,iJO1366_met_88063,"1,2,4-Butanetriol",met_88063,YA,aerobic,D-glucose,1.00644336,0.16774056,0.592843109
+iJO1366,iJO1366_hpta,heptanoate,hpta,YT,aerobic,D-glucose,0.631578947,0.105263158,0.452860174
+iJO1366,iJO1366_hpta,heptanoate,hpta,YA,aerobic,D-glucose,0.586922954,0.097820492,0.420840549
+iJO1366,iJO1366_34dhbz,"3,4-dihydroxybenzoate",34dhbz,YT,aerobic,D-glucose,0.860915493,0.143485915,0.73168117
+iJO1366,iJO1366_34dhbz,"3,4-dihydroxybenzoate",34dhbz,YA,aerobic,D-glucose,0.767076027,0.127846004,0.651928197
+iJO1366,iJO1366_34dhbz_path_1,"3,4-dihydroxybenzoate",34dhbz,YT,aerobic,D-glucose,0.860915493,0.143485915,0.73168117
+iJO1366,iJO1366_34dhbz_path_1,"3,4-dihydroxybenzoate",34dhbz,YA,aerobic,D-glucose,0.767156666,0.127859444,0.651996732
+iJO1366,iJO1366_34dhbz_path_2,"3,4-dihydroxybenzoate",34dhbz,YT,aerobic,D-glucose,0.860915493,0.143485915,0.73168117
+iJO1366,iJO1366_34dhbz_path_2,"3,4-dihydroxybenzoate",34dhbz,YA,aerobic,D-glucose,0.767157354,0.127859559,0.651997316
+iJO1366,iJO1366_34dhbz_path_3,"3,4-dihydroxybenzoate",34dhbz,YT,aerobic,D-glucose,0.860915493,0.143485915,0.73168117
+iJO1366,iJO1366_34dhbz_path_3,"3,4-dihydroxybenzoate",34dhbz,YA,aerobic,D-glucose,0.767151321,0.127858554,0.651992189
+iJO1366,iJO1366_13ppd,"propane-1,3-diol",13ppd,YT,aerobic,D-glucose,1.399425287,0.233237548,0.591090646
+iJO1366,iJO1366_13ppd,"propane-1,3-diol",13ppd,YA,aerobic,D-glucose,1.243322873,0.207220479,0.525155953
+iJO1366,iJO1366_13ppd_path_1,"propane-1,3-diol",13ppd,YT,aerobic,D-glucose,1.423976608,0.237329435,0.601460658
+iJO1366,iJO1366_13ppd_path_1,"propane-1,3-diol",13ppd,YA,aerobic,D-glucose,1.265135555,0.210855926,0.534369216
+iJO1366,iJO1366_13ppd_path_2,"propane-1,3-diol",13ppd,YT,aerobic,D-glucose,1.399425287,0.233237548,0.591090646
+iJO1366,iJO1366_13ppd_path_2,"propane-1,3-diol",13ppd,YA,aerobic,D-glucose,1.243271893,0.207211982,0.52513442
+iJO1366,iJO1366_met_16812,"(S,S)-butane-2,3-diol",met_16812,YT,aerobic,D-glucose,1.090909091,0.181818182,0.545715289
+iJO1366,iJO1366_met_16812,"(S,S)-butane-2,3-diol",met_16812,YA,aerobic,D-glucose,1.00354867,0.167258112,0.502014198
+iJO1366,iJO1366_1acpc,1-aminocyclopropanecarboxylic acid zwitterion,1acpc,YT,aerobic,D-glucose,0.392588883,0.065431481,0.220321753
+iJO1366,iJO1366_1acpc,1-aminocyclopropanecarboxylic acid zwitterion,1acpc,YA,aerobic,D-glucose,0.348903828,0.058150638,0.195805603
+iJO1366,iJO1366_met_40968,astaxanthin,met_40968,YT,aerobic,D-glucose,0.100371747,0.016728625,0.332521598
+iJO1366,iJO1366_met_40968,astaxanthin,met_40968,YA,aerobic,D-glucose,0.089390783,0.014898464,0.296142756
+iJO1366,iJO1366_met_M2P2TEN,(E)-2-methyl-2-pentenoate,met_M2P2TEN,YT,aerobic,D-glucose,0.795081967,0.132513661,0.499296326
+iJO1366,iJO1366_met_M2P2TEN,(E)-2-methyl-2-pentenoate,met_M2P2TEN,YA,aerobic,D-glucose,0.706466823,0.117744471,0.443647704
+iJO1366,iJO1366_CE2028,3-hydroxyisovalerate,CE2028,YT,aerobic,D-glucose,0.808743169,0.134790528,0.525781094
+iJO1366,iJO1366_CE2028,3-hydroxyisovalerate,CE2028,YA,aerobic,D-glucose,0.728846664,0.121474444,0.47383868
+iJO1366,iJO1366_but,butyrate,but,YT,aerobic,D-glucose,1.2,0.2,0.580145461
+iJO1366,iJO1366_but,butyrate,but,YA,aerobic,D-glucose,1.10763165,0.184605275,0.535489561
+iJO1366,iJO1366_acon_C,cis-aconitate(3-),acon_C,YT,aerobic,D-glucose,1.184584178,0.197430696,1.124936345
+iJO1366,iJO1366_acon_C,cis-aconitate(3-),acon_C,YA,aerobic,D-glucose,1.067592625,0.177932104,1.013835713
+iJO1366,iJO1366_met_DHBA,"2,4-dihydroxybutyraldehyde",met_DHBA,YT,aerobic,D-glucose,1.236842105,0.206140351,0.714719129
+iJO1366,iJO1366_met_DHBA,"2,4-dihydroxybutyraldehyde",met_DHBA,YA,aerobic,D-glucose,1.099140795,0.183190132,0.635147323
+iJO1366,iJO1366_iamac,isoamyl acetate,iamac,YT,aerobic,D-glucose,0.607594937,0.101265823,0.439062337
+iJO1366,iJO1366_iamac,isoamyl acetate,iamac,YA,aerobic,D-glucose,0.547407462,0.091234577,0.395569458
+iJO1366,iJO1366_orn,L-ornithinium(1+),orn,YT,aerobic,D-glucose,0.981651376,0.163608563,0.725624129
+iJO1366,iJO1366_orn,L-ornithinium(1+),orn,YA,aerobic,D-glucose,0.874574081,0.145762347,0.646473963
+iJO1366,iJO1366_acgam1p,N-acetyl-alpha-D-glucosamine 1-phosphate(2-),acgam1p,YT,aerobic,D-glucose,0.691919192,0.115319865,1.149020085
+iJO1366,iJO1366_acgam1p,N-acetyl-alpha-D-glucosamine 1-phosphate(2-),acgam1p,YA,aerobic,D-glucose,0.622055673,0.103675946,1.033002801
+iJO1366,iJO1366_acetone,acetone,acetone,YT,aerobic,D-glucose,1.410628019,0.23510467,0.454762077
+iJO1366,iJO1366_acetone,acetone,acetone,YA,aerobic,D-glucose,1.271407228,0.211901205,0.409879702
+iJO1366,iJO1366_acetone_path_1,acetone,acetone,YT,aerobic,D-glucose,1.410628019,0.23510467,0.454762077
+iJO1366,iJO1366_acetone_path_1,acetone,acetone,YA,aerobic,D-glucose,1.271391399,0.211898567,0.409874599
+iJO1366,iJO1366_met_89209,Ethyl isobutyl ketone,met_89209,YT,aerobic,D-glucose,0.575875486,0.095979248,0.364998396
+iJO1366,iJO1366_met_89209,Ethyl isobutyl ketone,met_89209,YA,aerobic,D-glucose,0.518938917,0.08648982,0.328911157
+iJO1366,iJO1366_4abut,gamma-aminobutyric acid zwitterion,4abut,YT,aerobic,D-glucose,1.204123711,0.200687285,0.689230616
+iJO1366,iJO1366_4abut,gamma-aminobutyric acid zwitterion,4abut,YA,aerobic,D-glucose,1.0852847,0.180880783,0.621208132
+iJO1366,iJO1366_4abut_path_1,gamma-aminobutyric acid zwitterion,4abut,YT,aerobic,D-glucose,1.204123711,0.200687285,0.689230616
+iJO1366,iJO1366_4abut_path_1,gamma-aminobutyric acid zwitterion,4abut,YA,aerobic,D-glucose,1.0852847,0.180880783,0.621208132
+iJO1366,iJO1366_aspsa,L-aspartic acid 4-semialdehyde betaine,aspsa,YT,aerobic,D-glucose,1.528571429,0.254761905,0.993588042
+iJO1366,iJO1366_aspsa,L-aspartic acid 4-semialdehyde betaine,aspsa,YA,aerobic,D-glucose,1.360607765,0.226767961,0.884409835
+iJO1366,iJO1366_icit,isocitrate(3-),icit,YT,aerobic,D-glucose,1.184584178,0.197430696,1.243392737
+iJO1366,iJO1366_icit,isocitrate(3-),icit,YA,aerobic,D-glucose,1.067665801,0.1779443,1.120669959
+iJO1366,iJO1366_met_63910,4-methylpentan-1-ol,met_63910,YT,aerobic,D-glucose,0.620689655,0.103448276,0.352021908
+iJO1366,iJO1366_met_63910,4-methylpentan-1-ol,met_63910,YA,aerobic,D-glucose,0.559205022,0.093200837,0.317151119
+iJO1366,iJO1366_met_63910_path_1,4-methylpentan-1-ol,met_63910,YT,aerobic,D-glucose,0.666666667,0.111111111,0.378097605
+iJO1366,iJO1366_met_63910_path_1,4-methylpentan-1-ol,met_63910,YA,aerobic,D-glucose,0.601612141,0.10026869,0.341202164
+iJO1366,iJO1366_1pyr5c,1-pyrroline-5-carboxylate,1pyr5c,YT,aerobic,D-glucose,1.078740157,0.179790026,0.671273868
+iJO1366,iJO1366_1pyr5c,1-pyrroline-5-carboxylate,1pyr5c,YA,aerobic,D-glucose,0.969893095,0.161648849,0.603540978
+iJO1366,iJO1366_36dahx,"(3S)-3,6-diammoniohexanoate",36dahx,YT,aerobic,D-glucose,0.798507463,0.133084577,0.652416703
+iJO1366,iJO1366_36dahx,"(3S)-3,6-diammoniohexanoate",36dahx,YA,aerobic,D-glucose,0.711407059,0.118567843,0.581251735
+iJO1366,iJO1366_ppoh,propan-1-ol,ppoh,YT,aerobic,D-glucose,1.190709046,0.198451508,0.397187613
+iJO1366,iJO1366_ppoh,propan-1-ol,ppoh,YA,aerobic,D-glucose,1.057888125,0.176314687,0.352882226
+iJO1366,iJO1366_ppoh_path_1,propan-1-ol,ppoh,YT,aerobic,D-glucose,1.333333333,0.222222222,0.444763131
+iJO1366,iJO1366_ppoh_path_1,propan-1-ol,ppoh,YA,aerobic,D-glucose,1.210535133,0.201755856,0.403801047
+iJO1366,iJO1366_ppoh_path_2,propan-1-ol,ppoh,YT,aerobic,D-glucose,1.333333333,0.222222222,0.444763131
+iJO1366,iJO1366_ppoh_path_2,propan-1-ol,ppoh,YA,aerobic,D-glucose,1.218094421,0.203015737,0.406322617
+iJO1366,iJO1366_ppoh_path_3,propan-1-ol,ppoh,YT,aerobic,D-glucose,1.284615385,0.214102564,0.428512171
+iJO1366,iJO1366_ppoh_path_3,propan-1-ol,ppoh,YA,aerobic,D-glucose,1.164371663,0.194061944,0.38840219
+iJO1366,iJO1366_met_36592,pyrrolidin-2-one,met_36592,YT,aerobic,D-glucose,1.165668663,0.19427811,0.550654385
+iJO1366,iJO1366_met_36592,pyrrolidin-2-one,met_36592,YA,aerobic,D-glucose,1.050624417,0.17510407,0.496308223
+iJO1366,iJO1366_pac,phenylacetate,pac,YT,aerobic,D-glucose,0.602959309,0.100493218,0.452296695
+iJO1366,iJO1366_pac,phenylacetate,pac,YA,aerobic,D-glucose,0.538578889,0.089763148,0.404003135
+iJO1366,iJO1366_octp,D-octopine dizwitterion,octp,YT,aerobic,D-glucose,0.624277457,0.104046243,0.853354475
+iJO1366,iJO1366_octp,D-octopine dizwitterion,octp,YA,aerobic,D-glucose,0.556348459,0.092724743,0.760499105
+iJO1366,iJO1366_met_76283,sebacate(2-),met_76283,YT,aerobic,D-glucose,0.48,0.08,0.533489038
+iJO1366,iJO1366_met_76283,sebacate(2-),met_76283,YA,aerobic,D-glucose,0.446061499,0.074343583,0.495768584
+iJO1366,iJO1366_acgam,N-acetyl-D-glucosamine,acgam,YT,aerobic,D-glucose,0.577014218,0.096169036,0.708497806
+iJO1366,iJO1366_acgam,N-acetyl-D-glucosamine,acgam,YA,aerobic,D-glucose,0.512650019,0.08544167,0.629467009
+iJO1366,iJO1366_met_15687,(S)-acetoin,met_15687,YT,aerobic,D-glucose,1.174603175,0.195767196,0.574438945
+iJO1366,iJO1366_met_15687,(S)-acetoin,met_15687,YA,aerobic,D-glucose,1.059370175,0.176561696,0.518084319
+iJO1366,iJO1366_6ax,6-aminohexanoic acid zwitterion,6ax,YT,aerobic,D-glucose,0.679860303,0.11331005,0.495011659
+iJO1366,iJO1366_6ax,6-aminohexanoic acid zwitterion,6ax,YA,aerobic,D-glucose,0.612758882,0.10212648,0.446154585
+iJO1366,iJO1366_met_27452,styrene,met_27452,YT,aerobic,D-glucose,0.56547619,0.094246032,0.326904943
+iJO1366,iJO1366_met_27452,styrene,met_27452,YA,aerobic,D-glucose,0.502467345,0.083744557,0.290479177
+iJO1366,iJO1366_pime,pimelate(2-),pime,YT,aerobic,D-glucose,0.620689655,0.103448276,0.544879514
+iJO1366,iJO1366_pime,pimelate(2-),pime,YA,aerobic,D-glucose,0.553202011,0.092200335,0.485634713
+iJO1366,iJO1366_hxa,hexanoate,hxa,YT,aerobic,D-glucose,0.75,0.125,0.479377942
+iJO1366,iJO1366_hxa,hexanoate,hxa,YA,aerobic,D-glucose,0.685067732,0.114177955,0.437875146
+iJO1366,iJO1366_met_4APAADH,2-(4-aminophenyl)acetaldehyde,met_4APAADH,YT,aerobic,D-glucose,0.591160221,0.098526703,0.44352193
+iJO1366,iJO1366_met_4APAADH,2-(4-aminophenyl)acetaldehyde,met_4APAADH,YA,aerobic,D-glucose,0.526651359,0.087775226,0.395123722
+iJO1366,iJO1366_btoh,butan-1-ol,btoh,YT,aerobic,D-glucose,1.090909091,0.181818182,0.448833129
+iJO1366,iJO1366_btoh,butan-1-ol,btoh,YA,aerobic,D-glucose,0.995937476,0.165989579,0.409758922
+iJO1366,iJO1366_btoh_path_1,butan-1-ol,btoh,YT,aerobic,D-glucose,0.899159664,0.149859944,0.369941591
+iJO1366,iJO1366_btoh_path_1,butan-1-ol,btoh,YA,aerobic,D-glucose,0.801079766,0.133513294,0.329588543
+iJO1366,iJO1366_ibt,isobutyrate,ibt,YT,aerobic,D-glucose,1.147286822,0.19121447,0.554661035
+iJO1366,iJO1366_ibt,isobutyrate,ibt,YA,aerobic,D-glucose,1.034732459,0.17245541,0.500246116
+iJO1366,iJO1366_met_39785,1-pyrroline-2-carboxylic acid zwitterion,met_39785,YT,aerobic,D-glucose,1.087301587,0.181216931,0.682684697
+iJO1366,iJO1366_met_39785,1-pyrroline-2-carboxylic acid zwitterion,met_39785,YA,aerobic,D-glucose,0.977583922,0.162930654,0.613796201
+iJO1366,iJO1366_T4hcinnm,trans-4-coumarate,T4hcinnm,YT,aerobic,D-glucose,0.575268817,0.095878136,0.520966363
+iJO1366,iJO1366_T4hcinnm,trans-4-coumarate,T4hcinnm,YA,aerobic,D-glucose,0.512520073,0.085420012,0.464140782
+iJO1366,iJO1366_acetol,hydroxyacetone,acetol,YT,aerobic,D-glucose,1.586319218,0.264386536,0.652280745
+iJO1366,iJO1366_acetol,hydroxyacetone,acetol,YA,aerobic,D-glucose,1.409334989,0.234889165,0.57950636
+iJO1366,iJO1366_acetol_path_1,hydroxyacetone,acetol,YT,aerobic,D-glucose,1.616666667,0.269444444,0.664759354
+iJO1366,iJO1366_acetol_path_1,hydroxyacetone,acetol,YA,aerobic,D-glucose,1.436530079,0.23942168,0.590688747
+iJO1366,iJO1366_lac__L,(S)-lactate,lac__L,YT,aerobic,D-glucose,2.0,0.333333333,0.988810357
+iJO1366,iJO1366_lac__L,(S)-lactate,lac__L,YA,aerobic,D-glucose,1.858059819,0.309676637,0.918634396
+iJO1366,iJO1366_met_4APEAM,2-(4-aminophenyl)ethylamine,met_4APEAM,YT,aerobic,D-glucose,0.560209424,0.093368237,0.423507238
+iJO1366,iJO1366_met_4APEAM,2-(4-aminophenyl)ethylamine,met_4APEAM,YA,aerobic,D-glucose,0.499050459,0.083175076,0.377272271
+iJO1366,iJO1366_met_5M2OPT,5-methyl-2-oxopentanoate,met_5M2OPT,YT,aerobic,D-glucose,0.642857143,0.107142857,0.510844894
+iJO1366,iJO1366_met_5M2OPT,5-methyl-2-oxopentanoate,met_5M2OPT,YA,aerobic,D-glucose,0.579172807,0.096528801,0.460238289
+iJO1366,iJO1366_anth,anthranilate,anth,YT,aerobic,D-glucose,0.711564626,0.118594104,0.537667146
+iJO1366,iJO1366_anth,anthranilate,anth,YA,aerobic,D-glucose,0.635408912,0.105901485,0.480122935
+iJO1366,iJO1366_met_32879,propane,met_32879,YT,aerobic,D-glucose,0.955357143,0.15922619,0.23383675
+iJO1366,iJO1366_met_32879,propane,met_32879,YA,aerobic,D-glucose,0.851166888,0.141861148,0.208334758
+iJO1366,iJO1366_met_35194,isoprene,met_35194,YT,aerobic,D-glucose,0.833976834,0.138996139,0.315327019
+iJO1366,iJO1366_met_35194,isoprene,met_35194,YA,aerobic,D-glucose,0.738308854,0.123051476,0.279154913
+iJO1366,iJO1366_acryl,acrylate,acryl,YT,aerobic,D-glucose,1.958333333,0.326388889,0.772380156
+iJO1366,iJO1366_acryl,acrylate,acryl,YA,aerobic,D-glucose,1.740136393,0.290022732,0.68632178
+iJO1366,iJO1366_pro__L,L-proline zwitterion,pro__L,YT,aerobic,D-glucose,1.014814815,0.169135802,0.6485278
+iJO1366,iJO1366_pro__L,L-proline zwitterion,pro__L,YA,aerobic,D-glucose,0.907883672,0.151313945,0.580192358
+iJO1366,iJO1366_pro__L_path_1,L-proline zwitterion,pro__L,YT,aerobic,D-glucose,1.014814815,0.169135802,0.6485278
+iJO1366,iJO1366_pro__L_path_1,L-proline zwitterion,pro__L,YA,aerobic,D-glucose,0.907892426,0.151315404,0.580197952
+iJO1366,iJO1366_ccmuac,"cis,cis-muconate",ccmuac,YT,aerobic,D-glucose,0.680989583,0.113498264,0.529553934
+iJO1366,iJO1366_ccmuac,"cis,cis-muconate",ccmuac,YA,aerobic,D-glucose,0.608110901,0.101351817,0.472881712
+iJO1366,iJO1366_met_143072,4-amino-L-phenylalanine zwitterion,met_143072,YT,aerobic,D-glucose,0.560209424,0.093368237,0.560358373
+iJO1366,iJO1366_met_143072,4-amino-L-phenylalanine zwitterion,met_143072,YA,aerobic,D-glucose,0.499046688,0.083174448,0.499179375
+iJO1366,iJO1366_dopa,dopaminium(1+),dopa,YT,aerobic,D-glucose,0.554404145,0.092400691,0.474486696
+iJO1366,iJO1366_dopa,dopaminium(1+),dopa,YA,aerobic,D-glucose,0.493356217,0.082226036,0.422238837
+iJO1366,iJO1366_pphn,"(1s,4s)-prephenate(2-)",pphn,YT,aerobic,D-glucose,0.578378378,0.096396396,0.719672873
+iJO1366,iJO1366_pphn,"(1s,4s)-prephenate(2-)",pphn,YA,aerobic,D-glucose,0.514446772,0.085741129,0.640123145
+iJO1366,iJO1366_met_32383,6-hydroxyhexanoate,met_32383,YT,aerobic,D-glucose,1.12959381,0.188265635,0.82232084
+iJO1366,iJO1366_met_32383,6-hydroxyhexanoate,met_32383,YA,aerobic,D-glucose,1.01791744,0.169652907,0.741022761
+iJO1366,iJO1366_mthgxl,methylglyoxal,mthgxl,YT,aerobic,D-glucose,1.830188679,0.305031447,0.732078601
+iJO1366,iJO1366_mthgxl,methylglyoxal,mthgxl,YA,aerobic,D-glucose,1.626296559,0.271049427,0.650521404
+iJO1366,iJO1366_met_LHMA,L-homoalanine,met_LHMA,YT,aerobic,D-glucose,1.15952381,0.193253968,0.579911096
+iJO1366,iJO1366_met_LHMA,L-homoalanine,met_LHMA,YA,aerobic,D-glucose,1.030164708,0.171694118,0.515214902
+iJO1366,iJO1366_L2aadp,L-2-aminoadipate(1-),L2aadp,YT,aerobic,D-glucose,0.869918699,0.14498645,0.773306166
+iJO1366,iJO1366_L2aadp,L-2-aminoadipate(1-),L2aadp,YA,aerobic,D-glucose,0.775024081,0.12917068,0.688950474
+iJO1366,iJO1366_met_37830,pentane,met_37830,YT,aerobic,D-glucose,0.644859813,0.107476636,0.25825329
+iJO1366,iJO1366_met_37830,pentane,met_37830,YA,aerobic,D-glucose,0.589836375,0.098306062,0.236217518
+iJO1366,iJO1366_gam1p,alpha-D-glucosamine 1-phosphate(1-),gam1p,YT,aerobic,D-glucose,0.904761905,0.150793651,1.296421886
+iJO1366,iJO1366_gam1p,alpha-D-glucosamine 1-phosphate(1-),gam1p,YA,aerobic,D-glucose,0.804631408,0.134105235,1.152946163
+iJO1366,iJO1366_met_DHB23,"2,3-Dihydroxybutanoate(-1)",met_DHB23,YT,aerobic,D-glucose,1.309090909,0.218181818,0.865403143
+iJO1366,iJO1366_met_DHB23,"2,3-Dihydroxybutanoate(-1)",met_DHB23,YA,aerobic,D-glucose,1.179407249,0.196567875,0.779672927
+iJO1366,iJO1366_met_DHB23_path_1,"2,3-Dihydroxybutanoate(-1)",met_DHB23,YT,aerobic,D-glucose,1.309090909,0.218181818,0.865403143
+iJO1366,iJO1366_met_DHB23_path_1,"2,3-Dihydroxybutanoate(-1)",met_DHB23,YA,aerobic,D-glucose,1.179407249,0.196567875,0.779672927
+iJO1366,iJO1366_succ,succinate(2-),succ,YT,aerobic,D-glucose,1.714285714,0.285714286,1.104492652
+iJO1366,iJO1366_succ,succinate(2-),succ,YA,aerobic,D-glucose,1.567072759,0.261178793,1.009645203
+iJO1366,iJO1366_succ_path_1,succinate(2-),succ,YT,aerobic,D-glucose,1.714285714,0.285714286,1.104492652
+iJO1366,iJO1366_succ_path_1,succinate(2-),succ,YA,aerobic,D-glucose,1.567072759,0.261178793,1.009645203
+iJO1366,iJO1366_grdp,geranyl diphosphate(3-),grdp,YT,aerobic,D-glucose,0.409090909,0.068181818,0.706627383
+iJO1366,iJO1366_grdp,geranyl diphosphate(3-),grdp,YA,aerobic,D-glucose,0.363766029,0.060627671,0.628337202
+iJO1366,iJO1366_ile__L,L-isoleucine zwitterion,ile__L,YT,aerobic,D-glucose,0.748251748,0.124708625,0.544808011
+iJO1366,iJO1366_ile__L,L-isoleucine zwitterion,ile__L,YA,aerobic,D-glucose,0.666627891,0.111104648,0.485377036
+iJO1366,iJO1366_met_4HBAD,4-hydroxybutyraldehyde,met_4HBAD,YT,aerobic,D-glucose,1.123893805,0.187315634,0.54963956
+iJO1366,iJO1366_met_4HBAD,4-hydroxybutyraldehyde,met_4HBAD,YA,aerobic,D-glucose,1.010374791,0.168395798,0.494123157
+iJO1366,iJO1366_ipdp,isopentenyl diphosphate(3-),ipdp,YT,aerobic,D-glucose,0.801875733,0.133645955,1.081899501
+iJO1366,iJO1366_ipdp,isopentenyl diphosphate(3-),ipdp,YA,aerobic,D-glucose,0.71261054,0.118768423,0.961461928
+iJO1366,iJO1366_2obut,2-oxobutanoate,2obut,YT,aerobic,D-glucose,1.284960422,0.21416007,0.720957312
+iJO1366,iJO1366_2obut,2-oxobutanoate,2obut,YA,aerobic,D-glucose,1.141627655,0.190271276,0.640537086
+iJO1366,iJO1366_arg__L,L-argininium(1+),arg__L,YT,aerobic,D-glucose,0.884297521,0.14738292,0.860015204
+iJO1366,iJO1366_arg__L,L-argininium(1+),arg__L,YA,aerobic,D-glucose,0.7878396,0.1313066,0.766205964
+iJO1366,iJO1366_met_TIGLATE,tiglate,met_TIGLATE,YT,aerobic,D-glucose,1.0,0.166666667,0.550122927
+iJO1366,iJO1366_met_TIGLATE,tiglate,met_TIGLATE,YA,aerobic,D-glucose,0.906990878,0.151165146,0.498956476
+iJO1366,iJO1366_catechol,catechol,catechol,YT,aerobic,D-glucose,0.689973615,0.114995602,0.421709446
+iJO1366,iJO1366_catechol,catechol,catechol,YA,aerobic,D-glucose,0.616128877,0.102688146,0.376575802
+iJO1366,iJO1366_bhb,(R)-3-hydroxybutyrate,bhb,YT,aerobic,D-glucose,1.24137931,0.206896552,0.710395694
+iJO1366,iJO1366_bhb,(R)-3-hydroxybutyrate,bhb,YA,aerobic,D-glucose,1.11808163,0.186346938,0.639836969
+iJO1366,iJO1366_met_30742,ethylene glycol,met_30742,YT,aerobic,D-glucose,0.0,0.0,0.0
+iJO1366,iJO1366_met_30742,ethylene glycol,met_30742,YA,aerobic,D-glucose,0.0,0.0,0.0
+iJO1366,iJO1366_ppa,propionate,ppa,YT,aerobic,D-glucose,1.714285714,0.285714286,0.695308339
+iJO1366,iJO1366_ppa,propionate,ppa,YA,aerobic,D-glucose,1.592710339,0.265451723,0.645997789
+iJO1366,iJO1366_ppa_path_1,propionate,ppa,YT,aerobic,D-glucose,1.714285714,0.285714286,0.695308339
+iJO1366,iJO1366_ppa_path_1,propionate,ppa,YA,aerobic,D-glucose,1.593076781,0.265512797,0.646146416
+iJO1366,iJO1366_ppa_path_2,propionate,ppa,YT,aerobic,D-glucose,1.714285714,0.285714286,0.695308339
+iJO1366,iJO1366_ppa_path_2,propionate,ppa,YA,aerobic,D-glucose,1.59307659,0.265512765,0.646146339
+iJO1366,iJO1366_gam6p,2-ammonio-2-deoxy-D-glucopyranose 6-phosphate(1-),gam6p,YT,aerobic,D-glucose,0.904761905,0.150793651,1.296421886
+iJO1366,iJO1366_gam6p,2-ammonio-2-deoxy-D-glucopyranose 6-phosphate(1-),gam6p,YA,aerobic,D-glucose,0.804630697,0.134105116,1.152945145
+iJO1366,iJO1366_gam6p_path_1,2-ammonio-2-deoxy-D-glucopyranose 6-phosphate(1-),gam6p,YT,aerobic,D-glucose,0.904761905,0.150793651,1.296421886
+iJO1366,iJO1366_gam6p_path_1,2-ammonio-2-deoxy-D-glucopyranose 6-phosphate(1-),gam6p,YA,aerobic,D-glucose,0.804630697,0.134105116,1.152945145
+iJO1366,iJO1366_met_R13BDO,"butane-1,3-diol",met_R13BDO,YT,aerobic,D-glucose,1.090909091,0.181818182,0.545715289
+iJO1366,iJO1366_met_R13BDO,"butane-1,3-diol",met_R13BDO,YA,aerobic,D-glucose,0.979476691,0.163246115,0.489972456
+iJO1366,iJO1366_34dhcinm,trans-caffeate,34dhcinm,YT,aerobic,D-glucose,0.551546392,0.091924399,0.548465303
+iJO1366,iJO1366_34dhcinm,trans-caffeate,34dhcinm,YA,aerobic,D-glucose,0.490563206,0.081760534,0.487822786
+iJO1366,iJO1366_34dhcinm_path_1,trans-caffeate,34dhcinm,YT,aerobic,D-glucose,0.551546392,0.091924399,0.548465303
+iJO1366,iJO1366_34dhcinm_path_1,trans-caffeate,34dhcinm,YA,aerobic,D-glucose,0.49056319,0.081760532,0.487822769
+iJO1366,iJO1366_3hppnl,3-hydroxypropanal,3hppnl,YT,aerobic,D-glucose,1.586319218,0.264386536,0.652280745
+iJO1366,iJO1366_3hppnl,3-hydroxypropanal,3hppnl,YA,aerobic,D-glucose,1.409361083,0.234893514,0.57951709
+iJO1366,iJO1366_met_18153,ethene,met_18153,YT,aerobic,D-glucose,0.0,0.0,0.0
+iJO1366,iJO1366_met_18153,ethene,met_18153,YA,aerobic,D-glucose,0.0,0.0,0.0
+iJO1366,iJO1366_met_18153_path_1,ethene,met_18153,YT,aerobic,D-glucose,1.312359551,0.218726592,0.204355431
+iJO1366,iJO1366_met_18153_path_1,ethene,met_18153,YA,aerobic,D-glucose,1.182762015,0.197127002,0.184175016
+iJO1366,iJO1366_met_58644,p-coumaroylagmatine(1+),met_58644,YT,aerobic,D-glucose,0.34516129,0.057526882,0.531360791
+iJO1366,iJO1366_met_58644,p-coumaroylagmatine(1+),met_58644,YA,aerobic,D-glucose,0.307486905,0.051247817,0.473362714
+iJO1366,iJO1366_met_MP2TN,2-methylpentanoate,met_MP2TN,YT,aerobic,D-glucose,0.75,0.125,0.479377942
+iJO1366,iJO1366_met_MP2TN,2-methylpentanoate,met_MP2TN,YA,aerobic,D-glucose,0.668131337,0.111355223,0.427049901
+iJO1366,iJO1366_5g2oxpt,5-guanidino-2-oxopentanoic acid zwitterion,5g2oxpt,YT,aerobic,D-glucose,0.955357143,0.15922619,0.918310541
+iJO1366,iJO1366_5g2oxpt,5-guanidino-2-oxopentanoic acid zwitterion,5g2oxpt,YA,aerobic,D-glucose,0.851082101,0.141847017,0.818079051
+iJO1366,iJO1366_ala_B,beta-alanine zwitterion,ala_B,YT,aerobic,D-glucose,1.877192982,0.312865497,0.928335463
+iJO1366,iJO1366_ala_B,beta-alanine zwitterion,ala_B,YA,aerobic,D-glucose,1.67241734,0.278736223,0.827066977
+iJO1366,iJO1366_ggdp,"2-trans,6-trans,10-trans-geranylgeranyl diphosphate(3-)",ggdp,YT,aerobic,D-glucose,0.206500956,0.034416826,0.512847662
+iJO1366,iJO1366_ggdp,"2-trans,6-trans,10-trans-geranylgeranyl diphosphate(3-)",ggdp,YA,aerobic,D-glucose,0.183799331,0.030633222,0.456467897
+iJO1366,iJO1366_hom__L,L-homoserine zwitterion,hom__L,YT,aerobic,D-glucose,1.35443038,0.225738397,0.89555006
+iJO1366,iJO1366_hom__L,L-homoserine zwitterion,hom__L,YA,aerobic,D-glucose,1.20522771,0.200871285,0.796897178
+iJO1366,iJO1366_4hbz,4-hydroxybenzoate,4hbz,YT,aerobic,D-glucose,0.736619718,0.122769953,0.560625566
+iJO1366,iJO1366_4hbz,4-hydroxybenzoate,4hbz,YA,aerobic,D-glucose,0.657787,0.109631167,0.500627664
+iJO1366,iJO1366_nop,D-nopalinate(1-),nop,YT,aerobic,D-glucose,0.516981132,0.086163522,0.87033583
+iJO1366,iJO1366_nop,D-nopalinate(1-),nop,YA,aerobic,D-glucose,0.46466845,0.077444742,0.782267623
+iJO1366,iJO1366_met_GBL,4-Butyrolactone,met_GBL,YT,aerobic,D-glucose,1.058333333,0.176388889,0.50573488
+iJO1366,iJO1366_met_GBL,4-Butyrolactone,met_GBL,YA,aerobic,D-glucose,0.951429079,0.158571513,0.454649642
+iJO1366,iJO1366_lald__D,(R)-lactaldehyde,lald__D,YT,aerobic,D-glucose,1.616666667,0.269444444,0.664759354
+iJO1366,iJO1366_lald__D,(R)-lactaldehyde,lald__D,YA,aerobic,D-glucose,1.436311185,0.239385197,0.590598739
+iJO1366,iJO1366_met_75317,4-phenylbutyrate,met_75317,YT,aerobic,D-glucose,0.46440678,0.07740113,0.420680139
+iJO1366,iJO1366_met_75317,4-phenylbutyrate,met_75317,YA,aerobic,D-glucose,0.414471926,0.069078654,0.375446947
+iJO1366,iJO1366_trp__L,L-tryptophan zwitterion,trp__L,YT,aerobic,D-glucose,0.466028708,0.077671451,0.528291371
+iJO1366,iJO1366_trp__L,L-tryptophan zwitterion,trp__L,YA,aerobic,D-glucose,0.414044735,0.069007456,0.469362202
+iJO1366,iJO1366_met_58113,L-2-ammoniohexano-6-lactam,met_58113,YT,aerobic,D-glucose,0.798507463,0.133084577,0.572567322
+iJO1366,iJO1366_met_58113,L-2-ammoniohexano-6-lactam,met_58113,YA,aerobic,D-glucose,0.711407059,0.118567843,0.510112245
+iJO1366,iJO1366_ibutoh,isobutanol,ibutoh,YT,aerobic,D-glucose,1.0,0.166666667,0.411430368
+iJO1366,iJO1366_ibutoh,isobutanol,ibutoh,YA,aerobic,D-glucose,0.929022779,0.15483713,0.382228184
+iJO1366,iJO1366_met_17128,adipate(2-),met_17128,YT,aerobic,D-glucose,0.795180723,0.13253012,0.636147297
+iJO1366,iJO1366_met_17128,adipate(2-),met_17128,YA,aerobic,D-glucose,0.714975244,0.119162541,0.57198264
+iJO1366,iJO1366_met_17128_path_1,adipate(2-),met_17128,YT,aerobic,D-glucose,0.923076923,0.153846154,0.738464695
+iJO1366,iJO1366_met_17128_path_1,adipate(2-),met_17128,YA,aerobic,D-glucose,0.835340466,0.139223411,0.668275229
+iJO1366,iJO1366_skm,shikimate,skm,YT,aerobic,D-glucose,0.804511278,0.134085213,0.773195889
+iJO1366,iJO1366_skm,shikimate,skm,YA,aerobic,D-glucose,0.715167537,0.119194589,0.68732983
+iJO1366,iJO1366_pta,valerate,pta,YT,aerobic,D-glucose,0.923076923,0.153846154,0.51813468
+iJO1366,iJO1366_pta,valerate,pta,YA,aerobic,D-glucose,0.843784101,0.140630683,0.473626622
+iJO1366,iJO1366_4hoxpac,4-hydroxyphenylacetate,4hoxpac,YT,aerobic,D-glucose,0.618987342,0.103164557,0.5192912
+iJO1366,iJO1366_4hoxpac,4-hydroxyphenylacetate,4hoxpac,YA,aerobic,D-glucose,0.559850093,0.093308349,0.469678791
+iJO1366,iJO1366_gly,glycine zwitterion,gly,YT,aerobic,D-glucose,2.760869565,0.460144928,1.150387605
+iJO1366,iJO1366_gly,glycine zwitterion,gly,YA,aerobic,D-glucose,2.481547162,0.413591194,1.034000712
+iJO1366,iJO1366_met_10418,trans-beta-farnesene,met_10418,YT,aerobic,D-glucose,0.277992278,0.046332046,0.315327019
+iJO1366,iJO1366_met_10418,trans-beta-farnesene,met_10418,YA,aerobic,D-glucose,0.247698356,0.041283059,0.280964583
+iJO1366,iJO1366_met_28579,epsilon-caprolactam,met_28579,YT,aerobic,D-glucose,0.667428571,0.111238095,0.419218301
+iJO1366,iJO1366_met_28579,epsilon-caprolactam,met_28579,YA,aerobic,D-glucose,0.601553262,0.100258877,0.377841386
+iJO1366,iJO1366_for,formate,for,YT,aerobic,D-glucose,10.5,1.75,2.62374517
+iJO1366,iJO1366_for,formate,for,YA,aerobic,D-glucose,9.371953503,1.56199225,2.341868356
+iJO1366,iJO1366_met_4APAA,2-(4-aminophenyl)acetic acid,met_4APAA,YT,aerobic,D-glucose,0.609725686,0.101620948,0.511599708
+iJO1366,iJO1366_met_4APAA,2-(4-aminophenyl)acetic acid,met_4APAA,YA,aerobic,D-glucose,0.547864715,0.091310786,0.459694309
+iJO1366,iJO1366_met_3HXTYR,3-hydroxytyrosol,met_3HXTYR,YT,aerobic,D-glucose,0.554404145,0.092400691,0.474415362
+iJO1366,iJO1366_met_3HXTYR,3-hydroxytyrosol,met_3HXTYR,YA,aerobic,D-glucose,0.493348837,0.082224806,0.422169043
+iJO1366,iJO1366_met_46762,"(E,E,E)-geranylgeraniol",met_46762,YT,aerobic,D-glucose,0.208494208,0.034749035,0.336176084
+iJO1366,iJO1366_met_46762,"(E,E,E)-geranylgeraniol",met_46762,YA,aerobic,D-glucose,0.185775087,0.030962514,0.29954377
+iJO1366,iJO1366_phenol,phenol,phenol,YT,aerobic,D-glucose,0.732492997,0.122082166,0.38264543
+iJO1366,iJO1366_phenol,phenol,phenol,YA,aerobic,D-glucose,0.654102483,0.109017081,0.34169518
+iJO1366,iJO1366_met_30362,isopentane,met_30362,YT,aerobic,D-glucose,0.641860465,0.106976744,0.257052112
+iJO1366,iJO1366_met_30362,isopentane,met_30362,YA,aerobic,D-glucose,0.586840918,0.09780682,0.235017898
+iJO1366,iJO1366_met_17756,(S)-mandelate,met_17756,YT,aerobic,D-glucose,0.581521739,0.09692029,0.487859931
+iJO1366,iJO1366_met_17756,(S)-mandelate,met_17756,YA,aerobic,D-glucose,0.517555931,0.086259322,0.434196667
+iJO1366,iJO1366_ibutac,isobutyl acetate,ibutac,YT,aerobic,D-glucose,0.75,0.125,0.483574058
+iJO1366,iJO1366_ibutac,isobutyl acetate,ibutac,YA,aerobic,D-glucose,0.679200533,0.113200089,0.437925011
+iJO1366,iJO1366_met_35687,butan-2-ol,met_35687,YT,aerobic,D-glucose,1.0,0.166666667,0.411430368
+iJO1366,iJO1366_met_35687,butan-2-ol,met_35687,YA,aerobic,D-glucose,0.92902991,0.154838318,0.382231118
+iJO1366,iJO1366_met_MalSA,malate-semialdehyde,met_MalSA,YT,aerobic,D-glucose,1.590163934,0.265027322,1.033419239
+iJO1366,iJO1366_met_MalSA,malate-semialdehyde,met_MalSA,YA,aerobic,D-glucose,1.412790264,0.235465044,0.918147248
+iJO1366,iJO1366_met_HBA,beta-Hydroxy-gamma-butyrolactone,met_HBA,YT,aerobic,D-glucose,1.321100917,0.220183486,0.748626112
+iJO1366,iJO1366_met_HBA,beta-Hydroxy-gamma-butyrolactone,met_HBA,YA,aerobic,D-glucose,1.190236545,0.198372757,0.67446941
+iJO1366,iJO1366_met_HBA_path_1,beta-Hydroxy-gamma-butyrolactone,met_HBA,YT,aerobic,D-glucose,1.321100917,0.220183486,0.748626112
+iJO1366,iJO1366_met_HBA_path_1,beta-Hydroxy-gamma-butyrolactone,met_HBA,YA,aerobic,D-glucose,1.190236545,0.198372757,0.67446941
+iJO1366,iJO1366_acald,acetaldehyde,acald,YT,aerobic,D-glucose,2.4,0.4,0.586859247
+iJO1366,iJO1366_acald,acetaldehyde,acald,YA,aerobic,D-glucose,2.15485141,0.359141902,0.526914364
+iJO1366,iJO1366_met_6PHX,6-phenylhexanoate,met_6PHX,YT,aerobic,D-glucose,0.381615599,0.0636026,0.405107906
+iJO1366,iJO1366_met_6PHX,6-phenylhexanoate,met_6PHX,YA,aerobic,D-glucose,0.341679376,0.056946563,0.362713204
+iJO1366,iJO1366_met_57302,proclavaminic acid zwitterion,met_57302,YT,aerobic,D-glucose,0.528957529,0.088159588,0.59370428
+iJO1366,iJO1366_met_57302,proclavaminic acid zwitterion,met_57302,YA,aerobic,D-glucose,0.475581444,0.079263574,0.533794726
+iJO1366,iJO1366_glu5sa,L-glutamic 5-semialdehyde zwitterion,glu5sa,YT,aerobic,D-glucose,1.087301587,0.181216931,0.791412997
+iJO1366,iJO1366_glu5sa,L-glutamic 5-semialdehyde zwitterion,glu5sa,YA,aerobic,D-glucose,0.977584199,0.1629307,0.711553124
+iJO1366,iJO1366_met_19641,2-hydroxyisobutyrate,met_19641,YT,aerobic,D-glucose,1.274336283,0.212389381,0.729255757
+iJO1366,iJO1366_met_19641,2-hydroxyisobutyrate,met_19641,YA,aerobic,D-glucose,1.143979469,0.190663245,0.654657349
+iJO1366,iJO1366_malon,malonate(2-),malon,YT,aerobic,D-glucose,2.328571429,0.388095238,1.318971226
+iJO1366,iJO1366_malon,malonate(2-),malon,YA,aerobic,D-glucose,2.109226804,0.351537801,1.194727991
+iJO1366,iJO1366_glyc3p,sn-glycerol 3-phosphate(2-),glyc3p,YT,aerobic,D-glucose,1.560897436,0.260149573,1.473406519
+iJO1366,iJO1366_glyc3p,sn-glycerol 3-phosphate(2-),glyc3p,YA,aerobic,D-glucose,1.386728965,0.231121494,1.309000483
+iJO1366,iJO1366_met_4APETH,2-(4-aminophenyl)ethanol,met_4APETH,YT,aerobic,D-glucose,0.568925234,0.094820872,0.433206051
+iJO1366,iJO1366_met_4APETH,2-(4-aminophenyl)ethanol,met_4APETH,YA,aerobic,D-glucose,0.505459566,0.084243261,0.384880349
+iJO1366,iJO1366_34hpl,3-(4-hydroxyphenyl)lactate,34hpl,YT,aerobic,D-glucose,0.581521739,0.09692029,0.58478022
+iJO1366,iJO1366_34hpl,3-(4-hydroxyphenyl)lactate,34hpl,YA,aerobic,D-glucose,0.51755606,0.086259343,0.520456118
+iJO1366,iJO1366_met_17447,geraniol,met_17447,YT,aerobic,D-glucose,0.416988417,0.069498069,0.357025148
+iJO1366,iJO1366_met_17447,geraniol,met_17447,YA,aerobic,D-glucose,0.37154902,0.061924837,0.318119973
+iJO1366,iJO1366_3dhsk,3-dehydroshikimate,3dhsk,YT,aerobic,D-glucose,0.860915493,0.143485915,0.817771248
+iJO1366,iJO1366_3dhsk,3-dehydroshikimate,3dhsk,YA,aerobic,D-glucose,0.767151423,0.127858571,0.728706106
+iJO1366,iJO1366_leu__L,L-leucine zwitterion,leu__L,YT,aerobic,D-glucose,0.770053476,0.128342246,0.560682022
+iJO1366,iJO1366_leu__L,L-leucine zwitterion,leu__L,YA,aerobic,D-glucose,0.693769442,0.11562824,0.505139013
+iJO1366,iJO1366_lald__L,(S)-lactaldehyde,lald__L,YT,aerobic,D-glucose,1.586319218,0.264386536,0.652280745
+iJO1366,iJO1366_lald__L,(S)-lactaldehyde,lald__L,YA,aerobic,D-glucose,1.409338357,0.234889726,0.579507745
+iJO1366,iJO1366_glu__L,L-glutamate(1-),glu__L,YT,aerobic,D-glucose,1.194274029,0.199045671,0.96865502
+iJO1366,iJO1366_glu__L,L-glutamate(1-),glu__L,YA,aerobic,D-glucose,1.076410128,0.179401688,0.873057648
+iJO1366,iJO1366_gln__L,L-glutamine zwitterion,gln__L,YT,aerobic,D-glucose,1.156435644,0.192739274,0.938113754
+iJO1366,iJO1366_gln__L,L-glutamine zwitterion,gln__L,YA,aerobic,D-glucose,1.042295319,0.173715887,0.845521824
+iJO1366,iJO1366_met_57504,L-dopa zwitterion,met_57504,YT,aerobic,D-glucose,0.551546392,0.091924399,0.603689965
+iJO1366,iJO1366_met_57504,L-dopa zwitterion,met_57504,YA,aerobic,D-glucose,0.490563357,0.08176056,0.536941552
+iJO1366,iJO1366_oxa,oxalate(2-),oxa,YT,aerobic,D-glucose,3.867549669,0.644591611,1.889573931
+iJO1366,iJO1366_oxa,oxalate(2-),oxa,YA,aerobic,D-glucose,3.485824494,0.580970749,1.70307395
+iJO1366,iJO1366_5aop,5-ammoniolevulinate,5aop,YT,aerobic,D-glucose,1.1,0.183333333,0.800655777
+iJO1366,iJO1366_5aop,5-ammoniolevulinate,5aop,YA,aerobic,D-glucose,0.984512525,0.164085421,0.716596037
+iJO1366,iJO1366_phpyr,keto-phenylpyruvate,phpyr,YT,aerobic,D-glucose,0.581521739,0.09692029,0.526629041
+iJO1366,iJO1366_phpyr,keto-phenylpyruvate,phpyr,YA,aerobic,D-glucose,0.517533285,0.086255547,0.468680771
+iJO1366,iJO1366_btd_RR,"(R,R)-butane-2,3-diol",btd_RR,YT,aerobic,D-glucose,1.090909091,0.181818182,0.545715289
+iJO1366,iJO1366_btd_RR,"(R,R)-butane-2,3-diol",btd_RR,YA,aerobic,D-glucose,1.00361385,0.167268975,0.502046804
+iJO1366,iJO1366_4mop,4-methyl-2-oxopentanoate,4mop,YT,aerobic,D-glucose,0.808743169,0.134790528,0.579698688
+iJO1366,iJO1366_4mop,4-methyl-2-oxopentanoate,4mop,YA,aerobic,D-glucose,0.728846679,0.121474446,0.522429715
+iJO1366,iJO1366_met_37808,butane,met_37808,YT,aerobic,D-glucose,0.7792,0.129866667,0.251386845
+iJO1366,iJO1366_met_37808,butane,met_37808,YA,aerobic,D-glucose,0.692233656,0.115372276,0.223329613
+iJO1366,iJO1366_met_74904,isocaproate,met_74904,YT,aerobic,D-glucose,0.75,0.125,0.479377942
+iJO1366,iJO1366_met_74904,isocaproate,met_74904,YA,aerobic,D-glucose,0.675701316,0.112616886,0.431888409
+iJO1366,iJO1366_met_74904_path_1,isocaproate,met_74904,YT,aerobic,D-glucose,0.660550459,0.110091743,0.422204426
+iJO1366,iJO1366_met_74904_path_1,isocaproate,met_74904,YA,aerobic,D-glucose,0.595113343,0.099185557,0.380378946
+iJO1366,iJO1366_met_58055,"4,5-dioxopentanoate",met_58055,YT,aerobic,D-glucose,1.198019802,0.199669967,0.858441782
+iJO1366,iJO1366_met_58055,"4,5-dioxopentanoate",met_58055,YA,aerobic,D-glucose,1.072257294,0.178709549,0.768326584
+iJO1366,iJO1366_dha,dihydroxyacetone,dha,YT,aerobic,D-glucose,2.0,0.333333333,1.0
+iJO1366,iJO1366_dha,dihydroxyacetone,dha,YA,aerobic,D-glucose,1.776388557,0.296064759,0.888194278
+iJO1366,iJO1366_ptrc,"1,4-butanediammonium",ptrc,YT,aerobic,D-glucose,0.990740741,0.165123457,0.495862122
+iJO1366,iJO1366_ptrc,"1,4-butanediammonium",ptrc,YA,aerobic,D-glucose,0.882671721,0.147111954,0.441773973
+iJO1366,iJO1366_ptrc_path_1,"1,4-butanediammonium",ptrc,YT,aerobic,D-glucose,0.990740741,0.165123457,0.495862122
+iJO1366,iJO1366_ptrc_path_1,"1,4-butanediammonium",ptrc,YA,aerobic,D-glucose,0.882629054,0.147104842,0.441752618
+iJO1366,iJO1366_glutar,glutarate(2-),glutar,YT,aerobic,D-glucose,0.899159664,0.149859944,0.649324015
+iJO1366,iJO1366_glutar,glutarate(2-),glutar,YA,aerobic,D-glucose,0.801079523,0.133513254,0.578495893
+iJO1366,iJO1366_ser__L,L-serine zwitterion,ser__L,YT,aerobic,D-glucose,2.102941176,0.350490196,1.226734947
+iJO1366,iJO1366_ser__L,L-serine zwitterion,ser__L,YA,aerobic,D-glucose,1.895203287,0.315867214,1.105552608
+iJO1366,iJO1366_met_4ACAA,4-aminocinnamate,met_4ACAA,YT,aerobic,D-glucose,0.560209424,0.093368237,0.504266308
+iJO1366,iJO1366_met_4ACAA,4-aminocinnamate,met_4ACAA,YA,aerobic,D-glucose,0.499051507,0.083175251,0.449215687
+iJO1366,iJO1366_met_14BDO,"1,4-butanediol",met_14BDO,YT,aerobic,D-glucose,1.058333333,0.176388889,0.529419624
+iJO1366,iJO1366_met_14BDO,"1,4-butanediol",met_14BDO,YA,aerobic,D-glucose,0.951435556,0.158572593,0.475945186
+iJO1366,iJO1366_met__L,L-methionine zwitterion,met__L,YT,aerobic,D-glucose,0.625842009,0.104307001,0.518344029
+iJO1366,iJO1366_met__L,L-methionine zwitterion,met__L,YA,aerobic,D-glucose,0.557398546,0.092899758,0.461656782
+iJO1366,iJO1366_glyald,D-glyceraldehyde,glyald,YT,aerobic,D-glucose,1.783333333,0.297222222,0.891666667
+iJO1366,iJO1366_glyald,D-glyceraldehyde,glyald,YA,aerobic,D-glucose,1.588779032,0.264796505,0.794389516
+iJO1366,iJO1366_met_DHB,"2,4-dihydroxybutyrate",met_DHB,YT,aerobic,D-glucose,1.424242424,0.237373737,0.941526567
+iJO1366,iJO1366_met_DHB,"2,4-dihydroxybutyrate",met_DHB,YA,aerobic,D-glucose,1.265677279,0.210946213,0.836703614
+iJO1366,iJO1366_12ppd__R,"(R)-propane-1,2-diol",12ppd__R,YT,aerobic,D-glucose,1.439655172,0.239942529,0.608082985
+iJO1366,iJO1366_12ppd__R,"(R)-propane-1,2-diol",12ppd__R,YA,aerobic,D-glucose,1.283096757,0.21384946,0.541955686
+iJO1366,iJO1366_etoh,ethanol,etoh,YT,aerobic,D-glucose,2.0,0.333333333,0.511428658
+iJO1366,iJO1366_etoh,ethanol,etoh,YA,aerobic,D-glucose,1.858045557,0.30967426,0.475128873
+iJO1366,iJO1366_met_77761,piperidin-2-one,met_77761,YT,aerobic,D-glucose,0.775362319,0.129227053,0.426644351
+iJO1366,iJO1366_met_77761,piperidin-2-one,met_77761,YA,aerobic,D-glucose,0.690785966,0.115130994,0.380106078
+iJO1366,iJO1366_thr__L,L-threonine zwitterion,thr__L,YT,aerobic,D-glucose,1.284960422,0.21416007,0.849616488
+iJO1366,iJO1366_thr__L,L-threonine zwitterion,thr__L,YA,aerobic,D-glucose,1.14162638,0.190271063,0.754843946
+iJO1366,iJO1366_gcald,glycolaldehyde,gcald,YT,aerobic,D-glucose,0.0,0.0,0.0
+iJO1366,iJO1366_gcald,glycolaldehyde,gcald,YA,aerobic,D-glucose,0.0,0.0,0.0
+iJO1366,iJO1366_fer,ferulate,fer,YT,aerobic,D-glucose,0.329499323,0.054916554,0.353312815
+iJO1366,iJO1366_fer,ferulate,fer,YA,aerobic,D-glucose,0.292744755,0.048790792,0.31390193
+iJO1366,iJO1366_iamoh,isoamylol,iamoh,YT,aerobic,D-glucose,0.782608696,0.130434783,0.382921347
+iJO1366,iJO1366_iamoh,isoamylol,iamoh,YA,aerobic,D-glucose,0.705081233,0.117513539,0.34498806
+iJO1366,iJO1366_octa,octanoate,octa,YT,aerobic,D-glucose,0.545454545,0.090909091,0.433574524
+iJO1366,iJO1366_octa,octanoate,octa,YA,aerobic,D-glucose,0.504326044,0.084054341,0.400882029
+iJO1366,iJO1366_met_64782,(+)-artemisinate,met_64782,YT,aerobic,D-glucose,0.260174971,0.043362495,0.336961501
+iJO1366,iJO1366_met_64782,(+)-artemisinate,met_64782,YA,aerobic,D-glucose,0.23121134,0.038535223,0.299449712
+iJO1366,iJO1366_glyc__R,D-glycerate,glyc__R,YT,aerobic,D-glucose,1.561497326,0.260249554,0.910686829
+iJO1366,iJO1366_glyc__R,D-glycerate,glyc__R,YA,aerobic,D-glucose,1.407387918,0.234564653,0.820808092
+iJO1366,iJO1366_met_62898,isopentenyl alcohol,met_62898,YT,aerobic,D-glucose,0.801875733,0.133645955,0.383375781
+iJO1366,iJO1366_met_62898,isopentenyl alcohol,met_62898,YA,aerobic,D-glucose,0.712609931,0.118768322,0.340697913
+iJO1366,iJO1366_etha,ethanolaminium(1+),etha,YT,aerobic,D-glucose,2.134328358,0.355721393,0.735599775
+iJO1366,iJO1366_etha,ethanolaminium(1+),etha,YA,aerobic,D-glucose,1.924786309,0.320797718,0.663380763
+iJO1366,iJO1366_lys__L,L-lysinium(1+),lys__L,YT,aerobic,D-glucose,0.798507463,0.133084577,0.652416703
+iJO1366,iJO1366_lys__L,L-lysinium(1+),lys__L,YA,aerobic,D-glucose,0.711406863,0.11856781,0.581251574
+iJO1366,iJO1366_glyc,glycerol,glyc,YT,aerobic,D-glucose,1.6,0.266666667,0.817903429
+iJO1366,iJO1366_glyc,glycerol,glyc,YA,aerobic,D-glucose,1.421111436,0.236851906,0.726457448
+iJO1366,iJO1366_glyc_path_1,glycerol,glyc,YT,aerobic,D-glucose,1.586319218,0.264386536,0.810909955
+iJO1366,iJO1366_glyc_path_1,glycerol,glyc,YA,aerobic,D-glucose,1.409263066,0.234877178,0.720400684
+iJO1366,iJO1366_glyc_path_2,glycerol,glyc,YT,aerobic,D-glucose,1.61971831,0.269953052,0.827983225
+iJO1366,iJO1366_glyc_path_2,glycerol,glyc,YA,aerobic,D-glucose,1.444077755,0.240679626,0.738197592
+iJO1366,iJO1366_glyc_path_3,glycerol,glyc,YT,aerobic,D-glucose,1.591900312,0.265316719,0.813762952
+iJO1366,iJO1366_glyc_path_3,glycerol,glyc,YA,aerobic,D-glucose,1.416364526,0.236060754,0.724030877
+iJO1366,iJO1366_val__L,L-valine zwitterion,val__L,YT,aerobic,D-glucose,1.0,0.166666667,0.650249884
+iJO1366,iJO1366_val__L,L-valine zwitterion,val__L,YA,aerobic,D-glucose,0.91674339,0.152790565,0.596112283
+iJO1366,iJO1366_pser__L,O-phosphonato-L-serine(2-),pser__L,YT,aerobic,D-glucose,2.063291139,0.343881857,2.096512547
+iJO1366,iJO1366_pser__L,O-phosphonato-L-serine(2-),pser__L,YA,aerobic,D-glucose,1.866167822,0.31102797,1.896215313
+iJO1366,iJO1366_frdp,"2-trans,6-trans-farnesyl diphosphate(3-)",frdp,YT,aerobic,D-glucose,0.274459975,0.045743329,0.577851279
+iJO1366,iJO1366_frdp,"2-trans,6-trans-farnesyl diphosphate(3-)",frdp,YA,aerobic,D-glucose,0.244217264,0.040702877,0.514177918
+iJO1366,iJO1366_met_1883,4-hydroxystyrene,met_1883,YT,aerobic,D-glucose,0.578378378,0.096396396,0.385728771
+iJO1366,iJO1366_met_1883,4-hydroxystyrene,met_1883,YA,aerobic,D-glucose,0.515285343,0.08588089,0.343651128
+iJO1366,iJO1366_chor,chorismate(2-),chor,YT,aerobic,D-glucose,0.578378378,0.096396396,0.719672873
+iJO1366,iJO1366_chor,chorismate(2-),chor,YA,aerobic,D-glucose,0.514480485,0.085746748,0.640165094
+iJO1366,iJO1366_alac__S,(2S)-2-hydroxy-2-methyl-3-oxobutanoate,alac__S,YT,aerobic,D-glucose,1.165354331,0.194225722,0.848075219
+iJO1366,iJO1366_alac__S,(2S)-2-hydroxy-2-methyl-3-oxobutanoate,alac__S,YA,aerobic,D-glucose,1.051028678,0.175171446,0.764875843
+iJO1366,iJO1366_4hoxoh,(S)-4-hydroxy-2-oxohexanoate,4hoxoh,YT,aerobic,D-glucose,0.917582418,0.152930403,0.739202781
+iJO1366,iJO1366_4hoxoh,(S)-4-hydroxy-2-oxohexanoate,4hoxoh,YA,aerobic,D-glucose,0.819919328,0.136653221,0.660525568
+iJO1366,iJO1366_glyclt,glycolate,glyclt,YT,aerobic,D-glucose,2.876847291,0.479474548,1.198342566
+iJO1366,iJO1366_glyclt,glycolate,glyclt,YA,aerobic,D-glucose,2.592903783,0.432150631,1.080066705
+iJO1366,iJO1366_glx,glyoxylate,glx,YT,aerobic,D-glucose,3.337142857,0.556190476,1.352735939
+iJO1366,iJO1366_glx,glyoxylate,glx,YA,aerobic,D-glucose,3.007768797,0.501294799,1.219221688
+iJO1366,iJO1366_sucsal,4-oxobutanoate,sucsal,YT,aerobic,D-glucose,1.474452555,0.245742092,0.827276336
+iJO1366,iJO1366_sucsal,4-oxobutanoate,sucsal,YA,aerobic,D-glucose,1.310700371,0.218450062,0.735399317
+iJO1366,iJO1366_sucsal_path_1,4-oxobutanoate,sucsal,YT,aerobic,D-glucose,1.300668151,0.216778025,0.729770503
+iJO1366,iJO1366_sucsal_path_1,4-oxobutanoate,sucsal,YA,aerobic,D-glucose,1.171915221,0.195319204,0.657530639
+iJO1366,iJO1366_dhap,glycerone phosphate(2-),dhap,YT,aerobic,D-glucose,1.79245283,0.298742138,1.671925938
+iJO1366,iJO1366_dhap,glycerone phosphate(2-),dhap,YA,aerobic,D-glucose,1.594079682,0.265679947,1.486891662
+iJO1366,iJO1366_15dap,cadaverine(2+),15dap,YT,aerobic,D-glucose,0.804511278,0.134085213,0.465292611
+iJO1366,iJO1366_15dap,cadaverine(2+),15dap,YA,aerobic,D-glucose,0.716756386,0.119459398,0.414539186
+iJO1366,iJO1366_met_75460,"meso-butane-2,3-diol",met_75460,YT,aerobic,D-glucose,1.090909091,0.181818182,0.545715289
+iJO1366,iJO1366_met_75460,"meso-butane-2,3-diol",met_75460,YA,aerobic,D-glucose,1.003606233,0.167267706,0.502042994
+iJO1366,iJO1366_met_75460_path_1,"meso-butane-2,3-diol",met_75460,YT,aerobic,D-glucose,1.090909091,0.181818182,0.545715289
+iJO1366,iJO1366_met_75460_path_1,"meso-butane-2,3-diol",met_75460,YA,aerobic,D-glucose,1.00361385,0.167268975,0.502046804
+iJO1366,iJO1366_2oxoadp,2-oxoadipate(2-),2oxoadp,YT,aerobic,D-glucose,0.9125,0.152083333,0.800830461
+iJO1366,iJO1366_2oxoadp,2-oxoadipate(2-),2oxoadp,YA,aerobic,D-glucose,0.822380684,0.137063447,0.721739729
+iJO1366,iJO1366_met_28660,(-)-alpha-pinene,met_28660,YT,aerobic,D-glucose,0.416988417,0.069498069,0.315327019
+iJO1366,iJO1366_met_28660,(-)-alpha-pinene,met_28660,YA,aerobic,D-glucose,0.371522582,0.06192043,0.280945713
+iJO1366,iJO1366_met_17221,beta-myrcene,met_17221,YT,aerobic,D-glucose,0.416988417,0.069498069,0.315327019
+iJO1366,iJO1366_met_17221,beta-myrcene,met_17221,YA,aerobic,D-glucose,0.371550607,0.061925101,0.280966907
+iJO1366,iJO1366_met_10280,"(E,E)-alpha-farnesene",met_10280,YT,aerobic,D-glucose,0.277992278,0.046332046,0.315327019
+iJO1366,iJO1366_met_10280,"(E,E)-alpha-farnesene",met_10280,YA,aerobic,D-glucose,0.247698356,0.041283059,0.280964583
+iJO1366,iJO1366_met_45713,trans-resveratrol,met_45713,YT,aerobic,D-glucose,0.341645885,0.056940981,0.43283837
+iJO1366,iJO1366_met_45713,trans-resveratrol,met_45713,YA,aerobic,D-glucose,0.307170843,0.051195141,0.389161213
+iJO1366,iJO1366_5apentam,5-ammoniopentanamide,5apentam,YT,aerobic,D-glucose,0.798507463,0.133084577,0.519332126
+iJO1366,iJO1366_5apentam,5-ammoniopentanamide,5apentam,YA,aerobic,D-glucose,0.711401406,0.118566901,0.462680215
+iJO1366,iJO1366_acgam6p,N-acetyl-D-glucosamine 6-phosphate(2-),acgam6p,YT,aerobic,D-glucose,0.631647211,0.105274535,1.048930773
+iJO1366,iJO1366_acgam6p,N-acetyl-D-glucosamine 6-phosphate(2-),acgam6p,YA,aerobic,D-glucose,0.561143801,0.093523967,0.931850866
+iJO1366,iJO1366_asp__L,L-aspartate(1-),asp__L,YT,aerobic,D-glucose,1.844827586,0.307471264,1.352673143
+iJO1366,iJO1366_asp__L,L-aspartate(1-),asp__L,YA,aerobic,D-glucose,1.643439347,0.273906558,1.205010312
+iJO1366,iJO1366_met_1879,2-(4-hydroxyphenyl)ethanol,met_1879,YT,aerobic,D-glucose,0.584699454,0.097449909,0.448413332
+iJO1366,iJO1366_met_1879,2-(4-hydroxyphenyl)ethanol,met_1879,YA,aerobic,D-glucose,0.520669973,0.086778329,0.399308322
+iJO1366,iJO1366_4hoxpacd,(4-hydroxyphenyl)acetaldehyde,4hoxpacd,YT,aerobic,D-glucose,0.60519802,0.100866337,0.457361989
+iJO1366,iJO1366_4hoxpacd,(4-hydroxyphenyl)acetaldehyde,4hoxpacd,YA,aerobic,D-glucose,0.541635161,0.090272527,0.409326083
+iJO1366,iJO1366_ppal,propanal,ppal,YT,aerobic,D-glucose,1.439655172,0.239942529,0.464119929
+iJO1366,iJO1366_ppal,propanal,ppal,YA,aerobic,D-glucose,1.286391348,0.214398558,0.414710323
+iJO1366,iJO1366_met_2PETO,2-phenylethanol,met_2PETO,YT,aerobic,D-glucose,0.557291667,0.092881944,0.377901638
+iJO1366,iJO1366_met_2PETO,2-phenylethanol,met_2PETO,YA,aerobic,D-glucose,0.496188931,0.082698155,0.336467636
+iJO1366,iJO1366_ac,acetate,ac,YT,aerobic,D-glucose,2.876847291,0.479474548,0.94285365
+iJO1366,iJO1366_ac,acetate,ac,YA,aerobic,D-glucose,2.59290271,0.432150452,0.849794076
+iJO1366,iJO1366_met_87381,3-methylpentanol,met_87381,YT,aerobic,D-glucose,0.624277457,0.104046243,0.354056716
+iJO1366,iJO1366_met_87381,3-methylpentanol,met_87381,YA,aerobic,D-glucose,0.556405457,0.092734243,0.315563356
+iJO1366,iJO1366_34hpp,3-(4-hydroxyphenyl)pyruvate,34hpp,YT,aerobic,D-glucose,0.602959309,0.100493218,0.599591014
+iJO1366,iJO1366_34hpp,3-(4-hydroxyphenyl)pyruvate,34hpp,YA,aerobic,D-glucose,0.538576643,0.089762774,0.535568006
+iJO1366,iJO1366_tym,tyraminium,tym,YT,aerobic,D-glucose,0.578378378,0.096396396,0.443640038
+iJO1366,iJO1366_tym,tyraminium,tym,YA,aerobic,D-glucose,0.515289437,0.085881573,0.395248222
+iJO1366,iJO1366_tyr__L,L-tyrosine zwitterion,tyr__L,YT,aerobic,D-glucose,0.575268817,0.095878136,0.578566279
+iJO1366,iJO1366_tyr__L,L-tyrosine zwitterion,tyr__L,YA,aerobic,D-glucose,0.512518445,0.085419741,0.51545622
+iJO1366,iJO1366_4abz,4-aminobenzoate,4abz,YT,aerobic,D-glucose,0.711564626,0.118594104,0.537667146
+iJO1366,iJO1366_4abz,4-aminobenzoate,4abz,YA,aerobic,D-glucose,0.635413839,0.105902307,0.480126658
+iJO1366,iJO1366_met_50029,(+)-sabinene,met_50029,YT,aerobic,D-glucose,0.416988417,0.069498069,0.315327019
+iJO1366,iJO1366_met_50029,(+)-sabinene,met_50029,YA,aerobic,D-glucose,0.371550607,0.061925101,0.280966907
+iJO1366,iJO1366_met_17296,aniline,met_17296,YT,aerobic,D-glucose,0.716438356,0.119406393,0.370342518
+iJO1366,iJO1366_met_17296,aniline,met_17296,YA,aerobic,D-glucose,0.639765989,0.106627665,0.330708909
+iJO1366,iJO1366_cinnm,trans-cinnamate,cinnm,YT,aerobic,D-glucose,0.562130178,0.093688363,0.459145923
+iJO1366,iJO1366_cinnm,trans-cinnamate,cinnm,YA,aerobic,D-glucose,0.499508871,0.083251478,0.407997064
+iJO1366,iJO1366_2mbtoh,2-methylbutan-1-ol,2mbtoh,YT,aerobic,D-glucose,0.764285714,0.127380952,0.373956125
+iJO1366,iJO1366_2mbtoh,2-methylbutan-1-ol,2mbtoh,YA,aerobic,D-glucose,0.680299176,0.113383196,0.332862487
+iJO1366,iJO1366_limnen,(4S)-limonene,limnen,YT,aerobic,D-glucose,0.416988417,0.069498069,0.315327019
+iJO1366,iJO1366_limnen,(4S)-limonene,limnen,YA,aerobic,D-glucose,0.371522582,0.06192043,0.280945713
+iJO1366,iJO1366_caro,beta-carotene,caro,YT,aerobic,D-glucose,0.108433735,0.018072289,0.323137416
+iJO1366,iJO1366_caro,beta-carotene,caro,YA,aerobic,D-glucose,0.096669412,0.016111569,0.288079204
+iJO1366,iJO1366_met_28398,butan-2-one,met_28398,YT,aerobic,D-glucose,1.045801527,0.174300254,0.418572361
+iJO1366,iJO1366_met_28398,butan-2-one,met_28398,YA,aerobic,D-glucose,0.940277982,0.156712997,0.376337541
+iJO1366,iJO1366_met_28398_path_1,butan-2-one,met_28398,YT,aerobic,D-glucose,1.090909091,0.181818182,0.436626245
+iJO1366,iJO1366_met_28398_path_1,butan-2-one,met_28398,YA,aerobic,D-glucose,1.003614127,0.167269021,0.401687246
