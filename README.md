@@ -11,4 +11,8 @@ To deactivate:
 - deactivate
 
 To update requirements.txt: 
-- pip freeze
+- pip freeze > requirements.txt
+
+
+# Finetuning LLM with tabular data
+A paper covering this: https://arxiv.org/html/2402.17944v2
